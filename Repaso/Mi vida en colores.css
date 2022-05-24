@@ -1,0 +1,12 @@
+.container{
+    width: 600px;
+    height: auto;
+    background-color: dimgray;
+}
+
+.img{
+    display: flex;
+    flex: content;
+    float: left;
+
+}
