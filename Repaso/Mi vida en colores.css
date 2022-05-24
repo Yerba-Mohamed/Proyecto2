@@ -1,12 +1,13 @@
 .container{
     width: 600px;
     height: auto;
-    background-color: dimgray;
+    background-color:aqua;
 }
 
 .img{
     display: flex;
     flex: content;
     float: left;
+    justify-content: left;
 
 }
